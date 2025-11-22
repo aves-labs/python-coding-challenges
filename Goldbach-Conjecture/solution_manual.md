@@ -30,10 +30,10 @@ Since `n` has divisors `1, 2, k, n` and `2 ≠ 1` and `2 ≠ n`, `n` is composit
 ## Theorem 3: Goldbach Search Space Reduction
 
 **Statement**: For finding prime pairs `(p, q)` where `p + q = n` and `p ≤ q`, we only need to check `p` from `2` to `n/2`.
-p ≤ q
-p ≤ n - p
-2p ≤ n
-p ≤ n/2
+- p ≤ q
+- p ≤ n - p
+- 2p ≤ n
+- p ≤ n/2
 
 **Application**: Loop from `2` to `n/2` inclusive.
 
