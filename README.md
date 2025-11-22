@@ -13,3 +13,17 @@ This repository contains my implementations of coding challenges I've encountere
 - **Run solutions** - Python files are executable and contain the implementations
 
 ## Folder Structure
+/challenge-name/
+│
+├── solution.py # The working code
+├── problem.md # What problem is being solved
+└── solution_manual.md # How to use and understand the solution #Note: Not each folder has solution_manual.md
+
+## Why I even created this
+
+- To document my problem-solving approach
+- To have a reference for similar problems
+- To demonstrate practical Python programming
+- To track my learning progress
+
+*Simple solutions to interesting problems.*
