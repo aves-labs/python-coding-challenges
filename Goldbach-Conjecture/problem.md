@@ -30,10 +30,10 @@ def goldbach_partitions(n):
         - p + q = n
         - p <= q (to avoid duplicates)
         - Sorted by increasing p value
-goldbach_partitions(10)   # → ["3+7", "5+5"]
-goldbach_partitions(26)   # → ["3+23", "7+19", "13+13"]
-goldbach_partitions(100)  # → ["3+97", "11+89", "17+83", "29+71", "41+59", "47+53"]
-goldbach_partitions(7)    # → []  (odd number)
+    goldbach_partitions(10)   # → ["3+7", "5+5"]
+    goldbach_partitions(26)   # → ["3+23", "7+19", "13+13"]
+    goldbach_partitions(100)  # → ["3+97", "11+89", "17+83", "29+71", "41+59", "47+53"]
+    goldbach_partitions(7)    # → []  (odd number)
     
     Returns empty list if n is odd.
     """
