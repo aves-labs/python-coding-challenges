@@ -13,11 +13,15 @@ This repository contains my implementations of coding challenges I've encountere
 - **Run solutions** - Python files are executable and contain the implementations
 
 ## Folder Structure
+
+Each challenge follows this pattern:
+
 /challenge-name/
-│
-├── solution.py # The working code
-├── problem.md # What problem is being solved
-└── solution_manual.md # How to use and understand the solution #Note: Not each folder has solution_manual.md
+    solution.py          - The working Python code
+    problem.md           - Description of the problem
+    solution_manual.md   - Explanation of the solution (when available)
+
+Note: Some folders may not have all file types
 
 ## Why I even created this
 
