@@ -16,8 +16,8 @@ This repository contains my implementations of coding challenges I've encountere
 
 Each challenge follows this pattern:
 
-- **solution.py**          - The working Python code,
-- **problem.md**           - Description of the problem,
+- **solution.py**          - The working Python code
+- **problem.md**           - Description of the problem
 - **solution_manual.md**   - Explanation of the solution (when available)
 
 Note: Some folders may not have all file types
